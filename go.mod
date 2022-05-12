@@ -1,4 +1,4 @@
-module github.com/replicatedhq/krew-plugin-template
+module github.com/littlejo/kubectl-time-start-pod
 
 go 1.16
 
